@@ -1,44 +1,44 @@
 const quotes = [
     {
-      quote: "The way to get started is to quit talking and begin doing.",
-      author: "Walt Disney",
+      quote: "어제는 지나버렸고 내일은 알 수 없지만 현재인 오늘은 선물이다. 그래서 현재(present)라고 한단다",
+      author: "Kung Fu Panda",
     },
     {
-      quote: "Life is what happens when you're busy making other plans.",
-      author: "John Lennon",
+      quote: "역경 속에서 피오난 꽃이야 말로 가장 귀하고 아름다운 꽃이란다.",
+      author: "mulan",
     },
     {
       quote:
-        "The world is a book and those who do not travel read only one page.",
-      author: "Saint Augustine",
+        "영화 속 해피엔딩과는 거리가 멀어요. 삶은 복잡한 거예요.",
+      author: "ZOOTOPIA",
     },
     {
-      quote: "Life is either a daring adventure or nothing at all.",
-      author: "Helen Keller",
+      quote: "위로와 포옹도 치료법에 속해. 다 잘될거야 걱정마",
+      author: "BIG HERO",
     },
     {
-      quote: "To Travel is to Live",
-      author: "Hans Christian Andersen",
+      quote: "울음은 나를 진정시키고 인생이라는 무게에 대해 생각하게 도와줘",
+      author: "INSIDE OUT2",
     },
     {
-      quote: "Only a life lived for others is a life worthwhile.",
-      author: "Albert Einstein",
+      quote: "당신과의 모험 고마웠어요 이제 새로운 모험을 찾아 떠나요",
+      author: "UP",
     },
     {
-      quote: "You only live once, but if you do it right, once is enough.",
-      author: "Mae West",
+      quote: "해보면 되잖아? 하고싶으니까 해본다. 정말로 하고 싶은 것이란 그런 느낌으로 시작하는거 아니야?",
+      author: "LOVE LIVE",
     },
     {
-      quote: "Never go on trips with anyone you do not love.",
-      author: "Hemmingway",
+      quote: "자신을 믿지 않는 녀석 따위는 노력할 가치도 없어!!",
+      author: "NARUTO",
     },
     {
-      quote: "We wander for distraction, but we travel for fulfilment.",
-      author: "Hilaire Belloc",
+      quote: "할 수 있냐 , 없냐는 중요하지 않아.하고 싶으니까 하는거야.",
+      author: "ONE PIECE",
     },
     {
-      quote: "Travel expands the mind and fills the gap.",
-      author: "Sheda Savage",
+      quote: "재능은 꽃 피우는 것 센스는 갈고 닦는것",
+      author: "하이큐",
     },
   ];
   
